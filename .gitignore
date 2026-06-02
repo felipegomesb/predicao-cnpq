@@ -1,3 +1,4 @@
 cnpq_data_postgres.csv
 cnpq_data_postgres.txt
+dados/cnpq_com_capes.parquet
 env
