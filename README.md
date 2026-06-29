@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## TabPFN
 
-O TabPFN-3 é executado via API em servidores com GPU. É necessário criar uma conta em [tabpfn.com](https://priorlabs.ai/tabpfn) e obter uma chave de acesso.
+O TabPFN-3 é executado via API em servidores com GPU. É necessário criar uma conta em [https://priorlabs.ai/tabpfn](https://priorlabs.ai/tabpfn) e obter uma chave de acesso.
 
 ```bash
 # Autentique com sua chave
